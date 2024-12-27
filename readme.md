@@ -6,7 +6,10 @@ The Wild Oasis hotel application with all the current data of the made-up The Wi
 ## App is built with:
 React, React Query, React Router, React Hook Form, React Error Boundary, React Icons, React Hot Toast, Recharts, date-fns, styled-components, Supabase
 
-## Teacher Jonas Schmedtmann
+## Deployed on Vercel
+Please use your pc: https://the-wild-oasis-pi-steel.vercel.app
 
-## TO DO
+## Teacher: Jonas Schmedtmann
+
+## TO DO:
 Restaurant feature
